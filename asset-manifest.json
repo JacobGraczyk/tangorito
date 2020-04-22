@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tangorito/static/css/main.10884343.chunk.css",
+    "main.js": "/tangorito/static/js/main.db01ddef.chunk.js",
+    "main.js.map": "/tangorito/static/js/main.db01ddef.chunk.js.map",
+    "runtime-main.js": "/tangorito/static/js/runtime-main.bdc326d2.js",
+    "runtime-main.js.map": "/tangorito/static/js/runtime-main.bdc326d2.js.map",
+    "static/js/2.4e6c16b2.chunk.js": "/tangorito/static/js/2.4e6c16b2.chunk.js",
+    "static/js/2.4e6c16b2.chunk.js.map": "/tangorito/static/js/2.4e6c16b2.chunk.js.map",
+    "index.html": "/tangorito/index.html",
+    "precache-manifest.4d8ba96fe334e9753f37465016192a43.js": "/tangorito/precache-manifest.4d8ba96fe334e9753f37465016192a43.js",
+    "service-worker.js": "/tangorito/service-worker.js",
+    "static/css/main.10884343.chunk.css.map": "/tangorito/static/css/main.10884343.chunk.css.map",
+    "static/js/2.4e6c16b2.chunk.js.LICENSE.txt": "/tangorito/static/js/2.4e6c16b2.chunk.js.LICENSE.txt",
+    "static/media/breakfast-burritos.jpg": "/tangorito/static/media/breakfast-burritos.6d2ae696.jpg",
+    "static/media/chicken-salad.jpg": "/tangorito/static/media/chicken-salad.56da5d8b.jpg",
+    "static/media/chili-dog.jpg": "/tangorito/static/media/chili-dog.a3641e78.jpg",
+    "static/media/chili.jpg": "/tangorito/static/media/chili.ead9bf46.jpg",
+    "static/media/encheladas.jpg": "/tangorito/static/media/encheladas.226dc46d.jpg",
+    "static/media/guacamole.jpg": "/tangorito/static/media/guacamole.cee51ad0.jpg",
+    "static/media/logo.svg": "/tangorito/static/media/logo.0852eede.svg",
+    "static/media/meatballs.jpg": "/tangorito/static/media/meatballs.461f06c5.jpg",
+    "static/media/nacho-chips.jpg": "/tangorito/static/media/nacho-chips.e10e0ec4.jpg",
+    "static/media/tacos.jpg": "/tangorito/static/media/tacos.674915b0.jpg",
+    "static/media/texas-steak.jpg": "/tangorito/static/media/texas-steak.6a4c8503.jpg",
+    "static/media/western-burger.jpg": "/tangorito/static/media/western-burger.62de0fe9.jpg",
+    "static/media/white-queso.jpg": "/tangorito/static/media/white-queso.fcae86f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc326d2.js",
+    "static/js/2.4e6c16b2.chunk.js",
+    "static/css/main.10884343.chunk.css",
+    "static/js/main.db01ddef.chunk.js"
+  ]
+}
