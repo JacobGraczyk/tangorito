@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tangorito/static/css/main.10884343.chunk.css",
-    "main.js": "/tangorito/static/js/main.4242400b.chunk.js",
-    "main.js.map": "/tangorito/static/js/main.4242400b.chunk.js.map",
+    "main.js": "/tangorito/static/js/main.d09af6aa.chunk.js",
+    "main.js.map": "/tangorito/static/js/main.d09af6aa.chunk.js.map",
     "runtime-main.js": "/tangorito/static/js/runtime-main.bdc326d2.js",
     "runtime-main.js.map": "/tangorito/static/js/runtime-main.bdc326d2.js.map",
     "static/js/2.68c2d94f.chunk.js": "/tangorito/static/js/2.68c2d94f.chunk.js",
     "static/js/2.68c2d94f.chunk.js.map": "/tangorito/static/js/2.68c2d94f.chunk.js.map",
     "index.html": "/tangorito/index.html",
-    "precache-manifest.1e443ee3adfe4308835ea81b0310cefc.js": "/tangorito/precache-manifest.1e443ee3adfe4308835ea81b0310cefc.js",
+    "precache-manifest.6abe95197d89309b0c54a55cedc75bef.js": "/tangorito/precache-manifest.6abe95197d89309b0c54a55cedc75bef.js",
     "service-worker.js": "/tangorito/service-worker.js",
     "static/css/main.10884343.chunk.css.map": "/tangorito/static/css/main.10884343.chunk.css.map",
     "static/js/2.68c2d94f.chunk.js.LICENSE.txt": "/tangorito/static/js/2.68c2d94f.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.bdc326d2.js",
     "static/js/2.68c2d94f.chunk.js",
     "static/css/main.10884343.chunk.css",
-    "static/js/main.4242400b.chunk.js"
+    "static/js/main.d09af6aa.chunk.js"
   ]
 }
