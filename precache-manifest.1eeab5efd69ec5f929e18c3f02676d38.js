@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce3a8c8821b95766b2cc76cc899fd762",
+    "revision": "ea1bb83a0cff1400159b320021e73976",
     "url": "/tangorito/index.html"
   },
   {
-    "revision": "1938f1100a7fe4af86c6",
-    "url": "/tangorito/static/css/main.69672301.chunk.css"
+    "revision": "69d19396d77b2bbb78d1",
+    "url": "/tangorito/static/css/main.1626db85.chunk.css"
   },
   {
     "revision": "2dd050efe5f2399ddcb8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tangorito/static/js/2.68c2d94f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1938f1100a7fe4af86c6",
-    "url": "/tangorito/static/js/main.c3ac1511.chunk.js"
+    "revision": "69d19396d77b2bbb78d1",
+    "url": "/tangorito/static/js/main.3685fd7f.chunk.js"
   },
   {
     "revision": "4ad78f0a48f532a185df",
