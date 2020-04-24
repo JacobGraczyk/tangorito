@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1361af00f9210f93b4580b516722e860",
+    "revision": "72a9e3bf47c06962a71d4342a8ea2702",
     "url": "/tangorito/index.html"
   },
   {
-    "revision": "9626affa22035820b63e",
+    "revision": "5ac62713ac077070d9b0",
     "url": "/tangorito/static/css/main.10884343.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tangorito/static/js/2.68c2d94f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9626affa22035820b63e",
-    "url": "/tangorito/static/js/main.d09af6aa.chunk.js"
+    "revision": "5ac62713ac077070d9b0",
+    "url": "/tangorito/static/js/main.0fc08fe9.chunk.js"
   },
   {
     "revision": "4ad78f0a48f532a185df",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tangorito/static/media/guacamole.cee51ad0.jpg"
   },
   {
-    "revision": "0852eede0aec0cc6b1b7a1af7d476738",
-    "url": "/tangorito/static/media/logo.0852eede.svg"
+    "revision": "1cbdc711d813643f49469f50b769fb2c",
+    "url": "/tangorito/static/media/logo.1cbdc711.svg"
   },
   {
     "revision": "461f06c526904c11751f800bfaab895d",
