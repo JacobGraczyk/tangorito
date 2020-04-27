@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tangorito/static/css/main.f94ec196.chunk.css",
-    "main.js": "/tangorito/static/js/main.62b09bfe.chunk.js",
-    "main.js.map": "/tangorito/static/js/main.62b09bfe.chunk.js.map",
+    "main.css": "/tangorito/static/css/main.211425b9.chunk.css",
+    "main.js": "/tangorito/static/js/main.cc5bb215.chunk.js",
+    "main.js.map": "/tangorito/static/js/main.cc5bb215.chunk.js.map",
     "runtime-main.js": "/tangorito/static/js/runtime-main.bdc326d2.js",
     "runtime-main.js.map": "/tangorito/static/js/runtime-main.bdc326d2.js.map",
     "static/js/2.68c2d94f.chunk.js": "/tangorito/static/js/2.68c2d94f.chunk.js",
     "static/js/2.68c2d94f.chunk.js.map": "/tangorito/static/js/2.68c2d94f.chunk.js.map",
     "index.html": "/tangorito/index.html",
-    "precache-manifest.ef84cbda60cef655e8747a321bd9ade2.js": "/tangorito/precache-manifest.ef84cbda60cef655e8747a321bd9ade2.js",
+    "precache-manifest.2980f386ae903fc93833aa9cb0768a21.js": "/tangorito/precache-manifest.2980f386ae903fc93833aa9cb0768a21.js",
     "service-worker.js": "/tangorito/service-worker.js",
-    "static/css/main.f94ec196.chunk.css.map": "/tangorito/static/css/main.f94ec196.chunk.css.map",
+    "static/css/main.211425b9.chunk.css.map": "/tangorito/static/css/main.211425b9.chunk.css.map",
     "static/js/2.68c2d94f.chunk.js.LICENSE.txt": "/tangorito/static/js/2.68c2d94f.chunk.js.LICENSE.txt",
     "static/media/breakfast-burritos.jpg": "/tangorito/static/media/breakfast-burritos.6d2ae696.jpg",
     "static/media/chicken-salad.jpg": "/tangorito/static/media/chicken-salad.56da5d8b.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.bdc326d2.js",
     "static/js/2.68c2d94f.chunk.js",
-    "static/css/main.f94ec196.chunk.css",
-    "static/js/main.62b09bfe.chunk.js"
+    "static/css/main.211425b9.chunk.css",
+    "static/js/main.cc5bb215.chunk.js"
   ]
 }
