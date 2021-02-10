@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tangorito/precache-manifest.baff58ccaec5fed9677fea03337bbb37.js"
+  "/tangorito/precache-manifest.6bb4885afccf837a60507a73dcb65e31.js"
 );
 
 self.addEventListener('message', (event) => {
